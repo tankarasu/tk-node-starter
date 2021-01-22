@@ -1,6 +1,6 @@
 {
   "name": "tk-node-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a starter template for an Express project",
   "main": "index.js",
   "scripts": {
