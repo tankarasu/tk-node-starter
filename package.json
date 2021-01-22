@@ -1,0 +1,25 @@
+{
+  "name": "tk-node-starter",
+  "version": "1.0.0",
+  "description": "a starter template for an Express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankarasu/tk-node-starter.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "KARASU Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tankarasu/tk-node-starter/issues"
+  },
+  "homepage": "https://github.com/tankarasu/tk-node-starter#readme"
+}
