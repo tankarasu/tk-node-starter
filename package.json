@@ -4,7 +4,7 @@
   "description": "a starter template for an Express project",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "echo \"Error: no test specified\" "
   },
   "repository": {
     "type": "git",
